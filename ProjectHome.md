@@ -1,0 +1,1 @@
+Através do Excel, utilizando o vba, está sendo feito todo um gerenciamento de uma planilha capaz de armazenar, organizar e gerenciar dados de um consultório veterinário
